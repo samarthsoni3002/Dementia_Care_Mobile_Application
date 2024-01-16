@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833504237815",
+    "project_id": "minordem",
+    "storage_bucket": "minordem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833504237815:android:5cf7a3eab24364e87cdbf2",
+        "android_client_info": {
+          "package_name": "com.example.minor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-VjbvVGPc7Asq35ke1U-D_ivMBcxgls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
