@@ -1,1 +1,1 @@
-# Dementia_Care_Mobile_App
+# Dementia_Care_Mobile_Application
