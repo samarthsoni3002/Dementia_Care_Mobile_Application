@@ -1,1 +1,3 @@
 # Dementia_Care_Mobile_Application
+## About the Project
+Dementia is a progressive cognitive disorder that affects millions worldwide, making everyday tasks challenging for both patients and caregivers. This is an application designed to enhance the quality of life and care for individuals suffering from dementia by harnessing the power of intelligent techniques. This innovative application will not only help the patients but also provide an accurate measure of Dementia. With the help of Image Processing techniques, we will identify the extent of Dementia and provide them with the best care by using fun activities like solving puzzles and emergency call services in the case of any emergency. 
